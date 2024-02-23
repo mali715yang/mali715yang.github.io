@@ -1,0 +1,105 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: cambria, Arial;
+  margin: 5%
+}
+
+.ccna img {
+  width: 20%;
+  margin-bottom: -115px;
+  
+}
+
+.aws img {
+   width: 30%;
+  padding-left: 80%;
+  margin-bottom: -10px
+}
+
+
+
+
+.header {
+  text-align: center;
+  line-height: 0.27;
+  border-bottom: 1px solid black;
+  margin-top: 3%;
+  padding-bottom: 15px;
+  margin-bottom: -20px;
+  
+}
+
+
+.sum-header {
+  text-decoration: underline;
+  margin-bottom: -20px;
+}
+
+.sum-body {
+  margin-top: -0px;
+    
+}
+
+
+.sum-body ul{
+  
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+}
+
+.certhead {
+  text-decoration: underline;
+ margin-bottom: -20px
+}
+
+.cert-bod {
+  padding
+}
+
+.experheader {
+  text-decoration: underline;
+  margin-bottom: -15px
+}
+
+
+.exp-LOL h5 {
+  margin-bottom: -15px;
+  line-height: 1;
+ 
+}
+
+
+.exp-max h5{
+  margin-bottom: -15px
+}
+
+
+.exp-maxd {
+  margin-bottom: -10px;
+  line-height: 0;
+  
+}
+
+.exp-uni {
+  margin-bottom: -10px;
+  line-height: 0;
+}
+
+.edu-header {
+    margin-bottom: -10px;
+  line-height: 0;
+}
+
+.edu-bod {
+     margin-bottom: -10px;
+  line-height: 0;
+}
+
+
+
+
+
+
+   
